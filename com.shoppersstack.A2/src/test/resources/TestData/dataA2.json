@@ -1,0 +1,11 @@
+{
+"name"		:	"Qspiders",
+"empid"		:	143,
+"marriage"	:	false,
+"kids"		:	null,
+"hobbies"	:	["songs","movies"],
+"cars"		:	{
+				"car1"	:	"BMW"
+			},
+"mobiles"	:	[{"mobile1" :"realme"},{"mobile2":"redmi"}]
+}
